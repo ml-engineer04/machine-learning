@@ -1,0 +1,501 @@
+car_id,brand,model_year,mileage_km,engine_size_l,horsepower,fuel_type,transmission,body_type,condition,owners_count,accidents_reported,fuel_consumption_l,price_usd
+CAR_01501,Kia,2016,190300,1.5,105,Diesel,Automatic,Hatchback,Very Good,4,0,4.9,5400
+CAR_01502,Kia,2022,52700,2.5,190,Petrol,Manual,Crossover,Very Good,2,2,6.8,10700
+CAR_01503,Chevrolet,2025,23300,2.0,132,Hybrid,Automatic,Hatchback,Good,2,0,6.5,14000
+CAR_01504,Hyundai,2011,224900,1.6,114,Petrol,Automatic,SUV,Good,2,1,5.4,2600
+CAR_01505,Kia,2023,73500,1.5,108,Petrol,Automatic,Crossover,Excellent,3,0,4.7,14000
+CAR_01506,Kia,2020,96500,1.5,101,Petrol,Automatic,Sedan,Very Good,1,0,5.1,8900
+CAR_01507,Toyota,2025,35000,1.5,109,Petrol,Automatic,SUV,Excellent,2,0,4.6,19900
+CAR_01508,Toyota,2018,128000,1.5,91,Hybrid,Manual,SUV,Good,3,0,4.5,7600
+CAR_01509,Toyota,2023,44400,1.6,109,Diesel,Manual,Sedan,Very Good,1,0,4.5,12700
+CAR_01510,Honda,2012,319900,2.0,126,Petrol,Manual,Hatchback,Good,1,1,5.0,2500
+CAR_01511,BMW,2017,119700,4.0,324,Petrol,Automatic,SUV,Fair,4,0,10.8,35100
+CAR_01512,Honda,2012,234000,1.6,95,Petrol,Manual,Sedan,Good,2,0,4.5,3300
+CAR_01513,Audi,2025,28600,2.5,219,Electric,Automatic,Sedan,Very Good,1,0,0.0,83600
+CAR_01514,Chevrolet,2022,40900,1.4,75,Diesel,Manual,Sedan,Good,2,0,4.5,4500
+CAR_01515,Chevrolet,2023,83500,1.2,90,Petrol,Automatic,SUV,Very Good,1,0,4.5,7100
+CAR_01516,Chevrolet,2024,25400,1.2,76,Petrol,Automatic,Sedan,Good,2,0,4.5,6800
+CAR_01517,Toyota,2012,303800,1.4,93,Petrol,Manual,Sedan,Good,1,0,4.5,2700
+CAR_01518,Mercedes,2017,109500,2.0,170,Petrol,Manual,SUV,Good,1,0,4.9,18900
+CAR_01519,Hyundai,2012,269400,2.0,150,Petrol,Automatic,SUV,Good,2,0,6.3,3500
+CAR_01520,Mercedes,2015,228700,3.0,230,Petrol,Manual,Hatchback,Fair,2,0,9.6,15500
+CAR_01521,Chevrolet,2015,219900,1.4,98,Hybrid,Automatic,SUV,Good,3,0,5.0,2800
+CAR_01522,Mercedes,2018,144500,3.5,300,Petrol,Manual,Hatchback,Good,1,2,10.6,23100
+CAR_01523,Hyundai,2016,156500,1.5,105,Petrol,Automatic,Crossover,Good,3,1,4.9,4400
+CAR_01524,Chevrolet,2013,183400,1.5,110,Hybrid,Automatic,Hatchback,Very Good,1,0,5.7,3400
+CAR_01525,Kia,2014,275800,1.6,121,Petrol,Automatic,SUV,Good,1,0,6.3,4000
+CAR_01526,Hyundai,2013,183200,1.4,92,Petrol,Automatic,Sedan,Very Good,3,0,4.7,3400
+CAR_01527,Hyundai,2025,29800,1.6,105,Petrol,Manual,Crossover,Good,2,0,4.5,10600
+CAR_01528,Hyundai,2022,77500,2.0,124,Petrol,Automatic,Sedan,Good,1,1,5.7,9600
+CAR_01529,BMW,2024,35000,2.0,192,Petrol,Automatic,Sedan,Very Good,1,0,6.2,47700
+CAR_01530,Toyota,2018,106400,1.4,116,Petrol,Automatic,Sedan,Very Good,2,1,4.8,8500
+CAR_01531,Hyundai,2016,106900,1.5,91,Diesel,Automatic,Sedan,Good,2,0,6.0,4500
+CAR_01532,Toyota,2022,62900,2.0,137,Petrol,Automatic,Crossover,Excellent,4,0,5.8,19500
+CAR_01533,Honda,2016,160500,2.5,158,Diesel,Automatic,SUV,Very Good,2,0,7.8,10700
+CAR_01534,Hyundai,2016,171300,1.5,99,Petrol,Automatic,SUV,Excellent,3,0,4.5,5000
+CAR_01535,Kia,2015,220300,1.6,116,Diesel,Automatic,SUV,Very Good,2,0,5.1,5400
+CAR_01536,Chevrolet,2013,236500,1.5,105,Petrol,Automatic,SUV,Good,3,0,5.2,2500
+CAR_01537,Chevrolet,2015,179100,1.5,109,Diesel,Manual,Sedan,Good,1,0,4.5,3200
+CAR_01538,Toyota,2017,147700,2.5,182,Petrol,Automatic,SUV,Very Good,3,0,8.1,16000
+CAR_01539,Chevrolet,2021,120300,1.6,114,Petrol,Automatic,SUV,Excellent,1,1,5.5,7500
+CAR_01540,Toyota,2012,308300,1.6,117,Petrol,Manual,Sedan,Very Good,3,0,4.8,3900
+CAR_01541,Honda,2015,182100,1.5,115,Hybrid,Automatic,Hatchback,Excellent,1,1,5.0,6300
+CAR_01542,Chevrolet,2022,78100,1.5,98,Petrol,Manual,Sedan,Good,2,2,4.5,3800
+CAR_01543,Toyota,2013,176200,1.6,118,Petrol,Automatic,Sedan,Good,2,1,4.5,4900
+CAR_01544,Hyundai,2017,97800,1.4,93,Petrol,Automatic,Sedan,Excellent,4,0,4.5,5700
+CAR_01545,Audi,2023,64800,3.5,263,Diesel,Automatic,Sedan,Very Good,2,0,10.5,62800
+CAR_01546,Kia,2014,257100,1.6,115,Petrol,Automatic,Hatchback,Excellent,1,0,5.9,3900
+CAR_01547,BMW,2012,263900,2.5,193,Hybrid,Automatic,Hatchback,Very Good,2,0,7.7,15100
+CAR_01548,Toyota,2019,132000,1.2,75,Electric,Manual,Sedan,Good,1,0,0.0,6300
+CAR_01549,Chevrolet,2016,217100,2.5,165,Petrol,Manual,SUV,Very Good,1,0,7.2,4600
+CAR_01550,Toyota,2020,86500,1.5,103,Petrol,Automatic,SUV,Excellent,1,1,4.9,10500
+CAR_01551,Audi,2022,85100,3.0,266,Diesel,Manual,Sedan,Very Good,1,0,8.8,40200
+CAR_01552,Toyota,2013,214800,1.6,99,Petrol,Automatic,Sedan,Good,2,0,6.3,4800
+CAR_01553,BMW,2020,98300,3.0,250,Petrol,Manual,Crossover,Good,3,0,9.5,36300
+CAR_01554,Mercedes,2019,173000,2.5,198,Hybrid,Manual,SUV,Good,3,0,7.0,26300
+CAR_01555,Hyundai,2013,234200,1.2,75,Hybrid,Automatic,Crossover,Fair,1,0,4.5,2500
+CAR_01556,Chevrolet,2020,105100,1.5,85,Hybrid,Automatic,Sedan,Very Good,1,0,5.8,5400
+CAR_01557,Toyota,2016,179400,1.6,99,Petrol,Automatic,SUV,Fair,1,0,5.2,5300
+CAR_01558,Kia,2019,120200,1.2,75,Petrol,Automatic,Sedan,Good,1,1,4.5,4800
+CAR_01559,BMW,2012,360000,3.0,217,Petrol,Automatic,Sedan,Very Good,1,0,8.6,11100
+CAR_01560,Mercedes,2018,172700,3.0,258,Petrol,Manual,SUV,Good,1,0,8.2,30800
+CAR_01561,Hyundai,2016,202500,1.6,122,Petrol,Manual,Sedan,Very Good,2,0,5.1,5100
+CAR_01562,Hyundai,2022,80500,1.6,80,Petrol,Manual,Sedan,Good,2,0,4.5,6400
+CAR_01563,Honda,2011,307400,1.6,103,Petrol,Manual,Sedan,Excellent,2,0,4.5,2900
+CAR_01564,Hyundai,2018,148200,1.4,94,Diesel,Manual,Sedan,Good,1,0,4.5,4500
+CAR_01565,BMW,2018,165200,3.0,242,Diesel,Automatic,SUV,Fair,2,1,10.2,22200
+CAR_01566,Kia,2021,84800,1.4,109,Diesel,Automatic,SUV,Excellent,3,0,5.4,9700
+CAR_01567,Toyota,2020,99300,1.6,121,Petrol,Automatic,Sedan,Very Good,1,0,5.4,13800
+CAR_01568,Chevrolet,2021,19900,1.2,90,Petrol,Automatic,Sedan,Good,1,1,4.5,5100
+CAR_01569,Toyota,2022,80500,1.4,101,Diesel,Automatic,Sedan,Excellent,1,1,4.9,12300
+CAR_01570,Kia,2023,44900,1.2,81,Petrol,Automatic,SUV,Good,1,0,4.9,7900
+CAR_01571,Toyota,2016,225600,1.5,85,Petrol,Manual,Sedan,Excellent,2,0,4.5,5500
+CAR_01572,Chevrolet,2019,120100,2.0,132,Petrol,Manual,Hatchback,Good,1,0,6.0,5200
+CAR_01573,Honda,2023,37200,1.4,111,Petrol,Automatic,Sedan,Good,2,0,5.3,15600
+CAR_01574,BMW,2025,25700,2.0,164,Petrol,Manual,Sedan,Good,1,0,6.2,35000
+CAR_01575,Chevrolet,2023,36700,1.6,107,Hybrid,Automatic,Hatchback,Good,2,1,4.5,7400
+CAR_01576,Chevrolet,2017,171700,1.6,118,Hybrid,Manual,SUV,Very Good,1,0,4.5,4500
+CAR_01577,Chevrolet,2014,209300,1.2,82,Petrol,Automatic,Sedan,Good,2,0,4.5,2500
+CAR_01578,Toyota,2019,138800,1.5,102,Petrol,Automatic,Hatchback,Fair,1,0,5.1,7400
+CAR_01579,Toyota,2022,52700,2.0,142,Hybrid,Manual,SUV,Good,1,2,4.6,12800
+CAR_01580,Toyota,2019,140100,1.5,85,Petrol,Automatic,Hatchback,Good,3,0,4.5,7500
+CAR_01581,Hyundai,2019,94000,1.5,93,Petrol,Automatic,SUV,Excellent,2,0,6.1,8800
+CAR_01582,Kia,2023,59100,1.2,105,Hybrid,Automatic,SUV,Very Good,1,0,4.5,11700
+CAR_01583,Toyota,2017,177700,1.5,112,Diesel,Automatic,Crossover,Very Good,2,0,5.1,8200
+CAR_01584,Kia,2023,63300,1.6,120,Hybrid,Manual,Sedan,Excellent,2,0,4.7,13700
+CAR_01585,Audi,2018,163400,2.5,214,Petrol,Automatic,SUV,Very Good,2,0,7.9,28900
+CAR_01586,Chevrolet,2016,181300,2.0,139,Petrol,Manual,SUV,Excellent,1,0,6.1,4900
+CAR_01587,Toyota,2018,190800,2.0,128,Hybrid,Automatic,Sedan,Good,3,0,6.1,8900
+CAR_01588,Kia,2022,60100,2.0,156,Petrol,Automatic,Sedan,Good,1,0,6.5,12600
+CAR_01589,Kia,2013,220300,2.0,132,Diesel,Automatic,Sedan,Good,1,0,6.5,4300
+CAR_01590,Honda,2014,173100,1.4,108,Petrol,Manual,SUV,Good,1,2,4.5,3400
+CAR_01591,Toyota,2024,32800,1.2,82,Diesel,Automatic,SUV,Excellent,2,0,4.8,15600
+CAR_01592,Audi,2014,200100,2.5,200,Petrol,Automatic,SUV,Very Good,3,0,7.6,18600
+CAR_01593,Chevrolet,2020,123800,1.6,110,Petrol,Automatic,Sedan,Good,3,0,5.8,5800
+CAR_01594,Chevrolet,2020,102000,1.6,113,Petrol,Automatic,SUV,Very Good,2,0,5.3,6100
+CAR_01595,Honda,2019,115700,1.6,123,Diesel,Manual,Crossover,Good,4,0,5.3,7800
+CAR_01596,Toyota,2020,90900,1.2,115,Petrol,Automatic,Sedan,Good,2,0,4.5,10000
+CAR_01597,Hyundai,2015,182600,1.2,77,Petrol,Automatic,SUV,Very Good,2,0,4.5,3600
+CAR_01598,Chevrolet,2019,120500,2.0,141,Hybrid,Automatic,Hatchback,Excellent,4,0,5.9,7700
+CAR_01599,Chevrolet,2017,93700,2.0,135,Petrol,Automatic,Hatchback,Very Good,1,0,6.5,5900
+CAR_01600,Mercedes,2021,131000,2.0,147,Petrol,Automatic,SUV,Very Good,2,1,7.2,29100
+CAR_01601,Chevrolet,2013,177300,2.0,150,Petrol,Automatic,Hatchback,Good,2,0,7.2,3500
+CAR_01602,Hyundai,2020,116200,1.2,83,Hybrid,Automatic,Sedan,Fair,3,0,4.5,5600
+CAR_01603,Hyundai,2014,138700,1.2,82,Petrol,Automatic,Hatchback,Good,3,0,4.5,4000
+CAR_01604,Hyundai,2016,204100,2.5,180,Petrol,Automatic,Sedan,Very Good,3,0,6.2,8700
+CAR_01605,Chevrolet,2015,206700,1.2,86,Diesel,Manual,Sedan,Good,4,0,4.5,2500
+CAR_01606,Kia,2014,239100,2.0,146,Petrol,Manual,Sedan,Good,2,1,6.2,3700
+CAR_01607,Chevrolet,2022,63900,2.0,132,Petrol,Automatic,Hatchback,Excellent,1,0,6.4,10700
+CAR_01608,BMW,2016,172000,4.0,325,Petrol,Automatic,Sedan,Very Good,1,0,12.0,33000
+CAR_01609,Hyundai,2024,35000,1.4,97,Diesel,Automatic,Sedan,Very Good,2,0,4.8,13700
+CAR_01610,Toyota,2024,34800,2.0,126,Petrol,Manual,Sedan,Good,1,2,5.2,12300
+CAR_01611,Mercedes,2020,125900,2.5,218,Hybrid,Automatic,Crossover,Good,2,0,8.0,40300
+CAR_01612,Toyota,2013,264700,1.4,106,Hybrid,Manual,Hatchback,Fair,1,0,4.5,3700
+CAR_01613,Toyota,2017,177500,2.0,135,Petrol,Manual,SUV,Very Good,3,0,6.1,9100
+CAR_01614,Hyundai,2022,49800,1.5,85,Diesel,Automatic,SUV,Fair,1,0,4.9,7500
+CAR_01615,Hyundai,2017,172700,1.4,87,Petrol,Automatic,SUV,Very Good,3,0,4.5,5000
+CAR_01616,Toyota,2012,231600,1.4,93,Petrol,Manual,Sedan,Excellent,3,0,4.5,3500
+CAR_01617,Audi,2019,51800,2.0,195,Petrol,Automatic,Crossover,Good,2,0,5.5,29400
+CAR_01618,Toyota,2023,61900,1.6,110,Hybrid,Manual,Sedan,Good,1,0,5.1,15100
+CAR_01619,Toyota,2022,64100,2.0,149,Petrol,Manual,Sedan,Very Good,2,0,5.4,17000
+CAR_01620,Honda,2014,261300,1.6,121,Petrol,Manual,Sedan,Excellent,2,0,4.6,5500
+CAR_01621,Kia,2021,63800,1.5,100,Petrol,Automatic,SUV,Excellent,1,0,5.9,12200
+CAR_01622,Chevrolet,2015,38400,2.0,137,Petrol,Automatic,SUV,Fair,1,0,6.1,3900
+CAR_01623,Toyota,2015,205200,1.6,118,Petrol,Automatic,SUV,Good,1,0,5.0,6600
+CAR_01624,Audi,2023,67700,2.0,162,Petrol,Manual,Sedan,Very Good,1,0,5.5,33800
+CAR_01625,Chevrolet,2015,108300,1.4,106,Petrol,Manual,SUV,Very Good,1,0,4.5,3700
+CAR_01626,Toyota,2016,124400,1.2,92,Petrol,Automatic,Sedan,Good,1,0,5.1,6200
+CAR_01627,Chevrolet,2010,442500,1.6,102,Petrol,Automatic,Sedan,Good,2,0,6.1,2500
+CAR_01628,Toyota,2023,47700,1.6,115,Petrol,Manual,Sedan,Very Good,4,0,4.8,15000
+CAR_01629,Chevrolet,2022,78400,1.2,85,Hybrid,Manual,Hatchback,Good,2,0,4.5,5200
+CAR_01630,Kia,2020,93500,1.6,97,Hybrid,Automatic,Sedan,Excellent,3,0,5.2,10500
+CAR_01631,Honda,2022,31000,1.4,93,Petrol,Automatic,SUV,Fair,2,0,4.9,9900
+CAR_01632,Hyundai,2014,184800,1.4,93,Petrol,Manual,SUV,Very Good,2,0,4.5,3700
+CAR_01633,Toyota,2018,119600,1.4,115,Electric,Manual,SUV,Very Good,1,0,0.0,10100
+CAR_01634,Honda,2017,131300,1.5,93,Diesel,Manual,SUV,Good,1,0,4.8,6500
+CAR_01635,Mercedes,2012,218300,3.5,272,Petrol,Automatic,Sedan,Very Good,3,0,10.9,20100
+CAR_01636,Hyundai,2019,174100,1.2,90,Petrol,Automatic,Sedan,Very Good,3,0,4.5,5800
+CAR_01637,Kia,2024,34200,2.0,135,Petrol,Automatic,SUV,Excellent,2,1,6.4,15400
+CAR_01638,Chevrolet,2011,165800,1.6,109,Petrol,Manual,SUV,Good,1,2,4.5,2500
+CAR_01639,Audi,2016,182200,4.4,343,Petrol,Manual,Hatchback,Very Good,2,0,11.8,30600
+CAR_01640,Mercedes,2015,117700,2.5,224,Hybrid,Manual,Hatchback,Very Good,1,1,7.2,23700
+CAR_01641,Toyota,2015,93100,1.5,97,Petrol,Automatic,Sedan,Very Good,1,0,4.7,7000
+CAR_01642,BMW,2023,61400,4.4,330,Diesel,Manual,Sedan,Excellent,3,1,12.2,59200
+CAR_01643,Toyota,2018,164900,1.6,91,Hybrid,Automatic,SUV,Fair,2,1,5.2,5400
+CAR_01644,Toyota,2018,131200,1.4,94,Diesel,Automatic,Sedan,Good,2,2,4.5,5400
+CAR_01645,Chevrolet,2022,45800,1.4,86,Hybrid,Automatic,Sedan,Very Good,3,0,4.5,8000
+CAR_01646,Honda,2014,160300,1.5,101,Electric,Manual,Hatchback,Good,2,0,0.0,5400
+CAR_01647,Chevrolet,2019,109400,1.4,81,Petrol,Manual,Sedan,Excellent,2,0,4.5,4300
+CAR_01648,BMW,2018,80700,2.5,205,Hybrid,Automatic,Crossover,Very Good,1,0,8.1,31500
+CAR_01649,Honda,2020,89600,1.2,90,Diesel,Automatic,SUV,Good,1,0,4.5,8200
+CAR_01650,Honda,2025,22000,1.5,104,Petrol,Manual,Hatchback,Very Good,2,1,4.5,15800
+CAR_01651,Chevrolet,2022,95400,2.0,141,Diesel,Automatic,Sedan,Good,1,0,6.5,9000
+CAR_01652,Hyundai,2017,129600,2.0,146,Diesel,Manual,Sedan,Very Good,1,0,5.1,7500
+CAR_01653,Hyundai,2022,78200,1.2,89,Hybrid,Automatic,SUV,Fair,1,0,4.9,8300
+CAR_01654,Hyundai,2014,105400,1.6,110,Petrol,Automatic,Sedan,Good,2,0,5.1,5300
+CAR_01655,Chevrolet,2011,307200,2.5,169,Petrol,Automatic,Sedan,Good,2,1,7.7,2500
+CAR_01656,Mercedes,2015,145400,3.0,250,Petrol,Automatic,Sedan,Very Good,2,1,9.1,23800
+CAR_01657,Toyota,2017,166000,1.6,119,Petrol,Automatic,Sedan,Good,2,0,4.5,7500
+CAR_01658,Hyundai,2019,108000,2.0,135,Petrol,Automatic,Sedan,Good,1,0,6.9,8800
+CAR_01659,Kia,2020,129000,2.0,122,Petrol,Automatic,Hatchback,Good,2,0,5.9,8400
+CAR_01660,Kia,2023,38100,1.2,97,Diesel,Automatic,Sedan,Good,3,0,4.5,10800
+CAR_01661,Toyota,2019,133200,2.0,118,Petrol,Manual,Sedan,Excellent,1,0,5.9,10200
+CAR_01662,Kia,2019,105900,1.4,106,Petrol,Automatic,SUV,Fair,2,0,5.5,6800
+CAR_01663,Mercedes,2011,232400,3.5,287,Petrol,Automatic,Crossover,Excellent,2,0,10.1,21300
+CAR_01664,Kia,2011,243300,1.6,115,Petrol,Manual,Sedan,Good,2,0,4.5,2800
+CAR_01665,Audi,2019,88500,2.5,211,Petrol,Automatic,Sedan,Very Good,1,0,8.5,37500
+CAR_01666,BMW,2018,135700,3.0,280,Petrol,Automatic,SUV,Good,4,0,9.4,35500
+CAR_01667,Chevrolet,2023,52000,2.0,128,Petrol,Automatic,Crossover,Excellent,2,0,6.7,11500
+CAR_01668,Mercedes,2014,210600,3.5,280,Petrol,Manual,Hatchback,Good,3,0,9.3,21100
+CAR_01669,Chevrolet,2010,269700,1.6,123,Petrol,Manual,SUV,Very Good,1,2,4.5,2500
+CAR_01670,BMW,2018,157300,2.5,216,Petrol,Automatic,Sedan,Excellent,2,0,7.7,32700
+CAR_01671,Kia,2015,220100,1.6,115,Petrol,Manual,SUV,Excellent,2,0,4.5,4500
+CAR_01672,BMW,2011,190200,2.0,192,Petrol,Automatic,Sedan,Very Good,1,0,5.6,13800
+CAR_01673,BMW,2021,117900,3.0,266,Petrol,Automatic,SUV,Excellent,1,1,8.9,45300
+CAR_01674,BMW,2013,148400,3.0,257,Hybrid,Manual,SUV,Very Good,2,0,9.1,17300
+CAR_01675,Honda,2020,111100,2.5,184,Diesel,Automatic,Crossover,Good,1,0,7.8,15200
+CAR_01676,Hyundai,2016,207600,1.2,91,Petrol,Manual,Sedan,Good,2,0,4.5,3500
+CAR_01677,Chevrolet,2014,104600,1.5,112,Petrol,Automatic,Sedan,Good,1,0,5.1,3800
+CAR_01678,Kia,2017,155400,1.2,96,Petrol,Automatic,SUV,Good,1,0,4.5,4700
+CAR_01679,Chevrolet,2022,61000,1.6,124,Petrol,Manual,SUV,Very Good,2,0,5.1,6800
+CAR_01680,Toyota,2017,118000,1.5,96,Hybrid,Automatic,Hatchback,Very Good,1,1,5.1,7800
+CAR_01681,Hyundai,2022,94500,1.6,98,Hybrid,Manual,Sedan,Fair,4,0,5.0,7400
+CAR_01682,Audi,2013,181500,2.5,192,Hybrid,Manual,Sedan,Excellent,3,0,6.5,18200
+CAR_01683,Toyota,2022,53400,1.4,94,Hybrid,Manual,SUV,Good,2,1,4.5,10200
+CAR_01684,BMW,2015,185300,2.5,225,Diesel,Automatic,Sedan,Excellent,3,0,8.3,22000
+CAR_01685,Chevrolet,2021,109700,2.0,166,Petrol,Automatic,Hatchback,Excellent,3,0,6.5,10700
+CAR_01686,BMW,2020,101500,4.4,343,Petrol,Manual,SUV,Excellent,1,0,11.9,51900
+CAR_01687,Mercedes,2024,42400,4.0,316,Diesel,Manual,Hatchback,Very Good,3,1,11.2,72100
+CAR_01688,Kia,2017,171100,2.5,152,Petrol,Automatic,SUV,Good,1,0,8.1,7400
+CAR_01689,Toyota,2012,114200,1.5,93,Petrol,Manual,Hatchback,Very Good,1,0,4.5,4400
+CAR_01690,Honda,2010,237900,1.4,94,Petrol,Automatic,Sedan,Good,2,0,5.0,3200
+CAR_01691,Chevrolet,2022,64900,1.6,103,Hybrid,Manual,Hatchback,Good,2,1,5.0,5700
+CAR_01692,Kia,2019,127100,1.2,94,Petrol,Automatic,Sedan,Very Good,1,1,4.5,6300
+CAR_01693,Kia,2022,34400,2.5,152,Diesel,Automatic,SUV,Fair,1,0,7.2,11800
+CAR_01694,Chevrolet,2015,299500,2.0,124,Hybrid,Automatic,Sedan,Excellent,2,0,6.4,4400
+CAR_01695,Hyundai,2017,163400,1.6,114,Diesel,Automatic,SUV,Excellent,1,0,5.1,7000
+CAR_01696,Chevrolet,2011,254200,2.5,162,Electric,Manual,Sedan,Good,2,0,0.0,2800
+CAR_01697,Chevrolet,2024,45500,1.2,83,Diesel,Automatic,Sedan,Good,2,1,4.5,5900
+CAR_01698,Chevrolet,2021,137900,1.6,121,Petrol,Manual,Crossover,Good,1,0,5.0,5600
+CAR_01699,Audi,2024,41400,4.0,313,Hybrid,Automatic,Sedan,Excellent,1,0,12.7,108300
+CAR_01700,Toyota,2016,206900,1.5,105,Petrol,Automatic,Hatchback,Very Good,2,0,5.0,7000
+CAR_01701,Audi,2020,123600,2.0,166,Petrol,Automatic,Crossover,Good,2,0,6.4,25900
+CAR_01702,Kia,2021,93200,2.0,133,Petrol,Automatic,Sedan,Good,1,0,6.0,11700
+CAR_01703,Hyundai,2016,166400,1.4,107,Petrol,Automatic,SUV,Good,1,0,4.5,5200
+CAR_01704,Kia,2023,76500,1.6,107,Petrol,Automatic,Sedan,Excellent,1,0,5.1,12600
+CAR_01705,Kia,2024,26600,1.4,100,Petrol,Manual,Sedan,Good,1,0,4.6,9000
+CAR_01706,Chevrolet,2023,41500,1.5,101,Petrol,Automatic,Sedan,Fair,2,0,5.0,6300
+CAR_01707,Toyota,2021,83800,1.6,91,Diesel,Automatic,Crossover,Excellent,2,0,4.6,12900
+CAR_01708,Chevrolet,2016,112300,1.5,97,Petrol,Manual,Sedan,Excellent,2,2,4.5,3100
+CAR_01709,Toyota,2016,170500,1.6,105,Petrol,Automatic,SUV,Excellent,3,0,5.7,8900
+CAR_01710,Toyota,2024,71400,1.5,105,Petrol,Automatic,SUV,Good,1,2,5.0,10300
+CAR_01711,Chevrolet,2010,274900,2.0,140,Petrol,Automatic,Hatchback,Very Good,1,0,7.1,2500
+CAR_01712,Chevrolet,2021,85300,1.6,109,Hybrid,Automatic,Sedan,Very Good,2,1,5.7,6200
+CAR_01713,Honda,2021,142400,2.0,131,Petrol,Automatic,SUV,Fair,2,0,5.9,8800
+CAR_01714,Kia,2020,130700,1.4,101,Hybrid,Automatic,SUV,Very Good,2,0,4.5,8300
+CAR_01715,Chevrolet,2025,25200,1.5,104,Petrol,Manual,SUV,Fair,2,0,4.5,7300
+CAR_01716,Audi,2016,169500,2.5,190,Petrol,Manual,Crossover,Good,2,0,6.2,17800
+CAR_01717,Chevrolet,2017,139100,2.5,179,Petrol,Automatic,Hatchback,Excellent,1,2,8.0,5500
+CAR_01718,Toyota,2012,167300,2.0,131,Petrol,Manual,Sedan,Good,2,0,4.7,4600
+CAR_01719,Audi,2018,95800,4.0,317,Petrol,Automatic,SUV,Excellent,2,0,12.5,42500
+CAR_01720,Hyundai,2016,181800,1.5,90,Petrol,Automatic,Sedan,Good,4,0,5.5,4100
+CAR_01721,Chevrolet,2017,128900,1.5,115,Petrol,Automatic,Sedan,Good,2,0,5.3,4100
+CAR_01722,Chevrolet,2023,71500,1.5,100,Diesel,Automatic,SUV,Very Good,2,0,4.7,8900
+CAR_01723,Hyundai,2024,44100,1.6,126,Diesel,Automatic,Sedan,Very Good,2,0,5.4,15300
+CAR_01724,Chevrolet,2014,259100,1.4,98,Petrol,Automatic,Sedan,Good,3,0,4.5,2500
+CAR_01725,Toyota,2017,114000,1.6,116,Petrol,Manual,Crossover,Excellent,4,0,4.5,8700
+CAR_01726,Chevrolet,2024,44700,1.5,101,Petrol,Automatic,Sedan,Fair,2,0,4.8,6200
+CAR_01727,Kia,2012,266800,1.5,92,Electric,Automatic,Crossover,Excellent,2,0,0.0,3200
+CAR_01728,Audi,2012,211000,2.5,215,Petrol,Manual,SUV,Good,1,0,7.0,11700
+CAR_01729,BMW,2014,162100,2.5,215,Petrol,Manual,SUV,Excellent,2,2,7.7,14000
+CAR_01730,Toyota,2020,140100,1.6,89,Petrol,Automatic,Hatchback,Good,2,0,5.7,7500
+CAR_01731,Hyundai,2014,208000,1.6,97,Petrol,Automatic,Sedan,Very Good,2,0,5.6,4000
+CAR_01732,Toyota,2024,37400,1.4,109,Petrol,Automatic,Sedan,Very Good,1,0,4.5,18600
+CAR_01733,Toyota,2018,105800,1.6,106,Petrol,Automatic,Sedan,Good,2,0,5.1,8200
+CAR_01734,Kia,2019,115200,1.5,111,Hybrid,Automatic,Sedan,Excellent,1,0,4.5,11700
+CAR_01735,Chevrolet,2015,171600,1.5,125,Diesel,Automatic,Crossover,Good,2,0,4.9,3200
+CAR_01736,Mercedes,2018,128000,2.0,180,Petrol,Automatic,Hatchback,Good,1,0,6.1,25400
+CAR_01737,Kia,2021,67600,1.6,110,Petrol,Automatic,Sedan,Very Good,2,0,5.1,10000
+CAR_01738,Chevrolet,2022,82600,2.0,127,Petrol,Automatic,Sedan,Fair,1,0,6.9,6500
+CAR_01739,Hyundai,2022,42800,1.5,107,Hybrid,Automatic,Sedan,Good,1,0,5.2,10400
+CAR_01740,Kia,2020,69300,1.5,108,Hybrid,Automatic,Sedan,Good,2,0,5.5,9300
+CAR_01741,BMW,2023,56800,2.0,174,Petrol,Automatic,SUV,Very Good,1,1,5.6,36100
+CAR_01742,Honda,2022,80800,2.0,141,Petrol,Automatic,Sedan,Good,2,0,6.4,14100
+CAR_01743,Honda,2022,92600,1.5,93,Petrol,Manual,SUV,Very Good,3,0,4.7,8800
+CAR_01744,Chevrolet,2011,190800,1.4,99,Petrol,Automatic,Sedan,Very Good,4,0,5.5,2500
+CAR_01745,Kia,2010,191000,1.5,104,Diesel,Automatic,Sedan,Excellent,1,1,4.5,3000
+CAR_01746,Kia,2015,161700,1.5,99,Electric,Automatic,SUV,Excellent,3,0,0.0,5900
+CAR_01747,Chevrolet,2021,107600,1.6,114,Petrol,Manual,SUV,Very Good,1,2,5.0,4600
+CAR_01748,Hyundai,2018,176100,1.2,75,Petrol,Manual,Crossover,Very Good,3,0,4.5,4000
+CAR_01749,Honda,2018,121700,1.6,103,Hybrid,Automatic,Hatchback,Good,2,0,4.8,8000
+CAR_01750,Chevrolet,2023,44500,2.0,163,Petrol,Automatic,Sedan,Fair,1,0,5.6,9500
+CAR_01751,Toyota,2023,51500,2.0,131,Hybrid,Automatic,Sedan,Very Good,1,0,5.9,19600
+CAR_01752,Chevrolet,2023,55800,1.5,102,Petrol,Automatic,Hatchback,Excellent,1,0,4.5,10300
+CAR_01753,Chevrolet,2016,154800,1.6,115,Hybrid,Manual,Crossover,Very Good,2,0,4.5,3900
+CAR_01754,Hyundai,2021,109500,1.6,116,Petrol,Automatic,Hatchback,Fair,1,0,5.7,7300
+CAR_01755,Audi,2016,205400,3.0,233,Petrol,Automatic,Sedan,Good,2,0,8.6,19900
+CAR_01756,BMW,2014,202000,3.5,305,Petrol,Automatic,Crossover,Very Good,2,0,10.7,23100
+CAR_01757,Audi,2014,131400,3.0,251,Petrol,Automatic,Sedan,Very Good,4,0,9.6,24400
+CAR_01758,Kia,2017,153900,2.0,153,Petrol,Manual,SUV,Very Good,3,1,5.6,6400
+CAR_01759,Chevrolet,2018,164000,1.5,118,Hybrid,Automatic,Crossover,Very Good,1,0,4.5,5500
+CAR_01760,Toyota,2023,47600,1.5,99,Hybrid,Manual,Sedan,Good,2,0,4.5,12900
+CAR_01761,Kia,2013,283700,2.0,122,Petrol,Automatic,Crossover,Excellent,3,2,6.4,3000
+CAR_01762,BMW,2021,113000,4.0,296,Petrol,Automatic,Sedan,Very Good,3,0,11.9,52200
+CAR_01763,Chevrolet,2019,165100,1.5,84,Diesel,Automatic,Crossover,Good,1,0,4.7,4300
+CAR_01764,Kia,2016,175400,1.5,107,Diesel,Automatic,Sedan,Good,1,2,5.0,3500
+CAR_01765,Chevrolet,2019,128700,1.6,104,Petrol,Automatic,Crossover,Excellent,1,0,5.5,6100
+CAR_01766,Hyundai,2016,225900,1.6,116,Hybrid,Automatic,Sedan,Excellent,1,0,6.5,6500
+CAR_01767,Honda,2020,111800,1.6,105,Petrol,Manual,SUV,Good,1,0,4.5,8400
+CAR_01768,Kia,2018,115500,1.5,96,Petrol,Automatic,SUV,Fair,2,0,5.8,5400
+CAR_01769,Hyundai,2014,190600,1.6,116,Petrol,Automatic,SUV,Fair,2,0,5.5,3700
+CAR_01770,Kia,2013,234100,1.6,132,Diesel,Automatic,Sedan,Good,2,0,5.2,4000
+CAR_01771,Kia,2019,95400,1.6,123,Petrol,Automatic,SUV,Very Good,2,0,5.4,8700
+CAR_01772,Honda,2023,53100,1.5,110,Petrol,Manual,Sedan,Very Good,1,0,4.5,12300
+CAR_01773,Mercedes,2017,184900,4.0,335,Petrol,Automatic,SUV,Very Good,3,0,12.2,39100
+CAR_01774,Audi,2021,48100,3.0,252,Petrol,Automatic,Sedan,Very Good,3,0,8.2,45000
+CAR_01775,Honda,2021,113000,1.4,77,Petrol,Automatic,Crossover,Fair,2,0,4.5,6300
+CAR_01776,Hyundai,2024,46800,1.6,118,Petrol,Manual,Sedan,Fair,3,1,4.5,9200
+CAR_01777,Toyota,2022,57300,1.5,109,Petrol,Manual,Sedan,Good,1,0,4.8,11700
+CAR_01778,Kia,2020,126500,1.6,120,Petrol,Manual,Sedan,Good,2,1,5.2,6800
+CAR_01779,Hyundai,2021,81400,1.4,92,Hybrid,Automatic,Sedan,Fair,1,0,4.6,8200
+CAR_01780,BMW,2023,86100,3.0,262,Petrol,Automatic,Sedan,Very Good,1,0,9.3,55600
+CAR_01781,Chevrolet,2017,199300,1.4,87,Diesel,Automatic,SUV,Very Good,1,0,5.2,3400
+CAR_01782,Mercedes,2016,110200,3.0,247,Petrol,Automatic,Hatchback,Very Good,2,0,8.5,31200
+CAR_01783,Kia,2010,307200,1.6,110,Petrol,Automatic,SUV,Very Good,1,0,5.5,2500
+CAR_01784,Toyota,2022,70400,2.0,110,Petrol,Manual,SUV,Very Good,2,2,5.2,8900
+CAR_01785,Toyota,2022,81600,1.4,93,Petrol,Automatic,Sedan,Very Good,1,0,4.6,13100
+CAR_01786,Mercedes,2013,175800,2.0,181,Petrol,Manual,SUV,Good,3,1,5.4,12100
+CAR_01787,Toyota,2020,153400,1.4,93,Hybrid,Automatic,Sedan,Excellent,2,0,4.9,13300
+CAR_01788,Toyota,2018,167500,2.0,149,Hybrid,Automatic,Hatchback,Good,1,1,6.7,10900
+CAR_01789,Chevrolet,2013,197800,1.6,113,Petrol,Automatic,Sedan,Good,1,0,5.7,2600
+CAR_01790,Kia,2025,17300,1.4,96,Petrol,Automatic,Sedan,Good,3,1,4.9,11500
+CAR_01791,Chevrolet,2015,165200,1.5,115,Hybrid,Manual,Sedan,Excellent,1,0,4.5,4200
+CAR_01792,Honda,2012,263700,1.4,94,Petrol,Automatic,Hatchback,Excellent,2,1,5.6,3800
+CAR_01793,Kia,2020,119000,2.0,124,Petrol,Manual,Sedan,Very Good,2,0,4.8,8000
+CAR_01794,Toyota,2021,113100,1.5,110,Electric,Automatic,SUV,Very Good,1,0,0.0,12700
+CAR_01795,Chevrolet,2011,289400,1.4,86,Electric,Automatic,Sedan,Very Good,1,0,0.0,2500
+CAR_01796,Chevrolet,2021,105700,1.6,106,Petrol,Manual,SUV,Excellent,2,0,4.8,6100
+CAR_01797,Honda,2019,155600,2.5,165,Petrol,Automatic,Crossover,Very Good,1,0,7.6,11800
+CAR_01798,Chevrolet,2013,149700,1.6,108,Petrol,Manual,Sedan,Excellent,1,2,4.5,2500
+CAR_01799,Chevrolet,2014,199300,2.0,165,Hybrid,Automatic,SUV,Good,1,0,6.6,4900
+CAR_01800,Chevrolet,2020,121800,1.5,109,Hybrid,Manual,Crossover,Good,1,0,4.7,6100
+CAR_01801,Audi,2016,164200,2.5,208,Petrol,Automatic,SUV,Excellent,1,0,8.0,23200
+CAR_01802,Honda,2024,46400,1.2,80,Diesel,Automatic,SUV,Good,4,0,4.5,12400
+CAR_01803,Hyundai,2022,76600,1.6,114,Diesel,Automatic,SUV,Excellent,2,0,7.1,11800
+CAR_01804,Hyundai,2025,12400,1.4,79,Petrol,Automatic,SUV,Good,2,1,5.3,9200
+CAR_01805,Hyundai,2015,189700,2.0,146,Hybrid,Automatic,Sedan,Excellent,1,0,6.9,6700
+CAR_01806,Honda,2024,42400,1.2,75,Diesel,Automatic,Hatchback,Good,1,0,4.5,11100
+CAR_01807,Toyota,2018,109200,1.5,108,Petrol,Automatic,Sedan,Very Good,3,0,4.7,8000
+CAR_01808,Chevrolet,2017,139300,2.0,133,Petrol,Automatic,Sedan,Good,2,0,6.3,5000
+CAR_01809,Chevrolet,2011,186900,1.6,118,Diesel,Automatic,Hatchback,Very Good,1,0,5.8,2800
+CAR_01810,Chevrolet,2011,314700,2.0,135,Petrol,Automatic,Sedan,Good,1,0,5.9,2500
+CAR_01811,Toyota,2021,74600,2.5,169,Petrol,Automatic,Sedan,Excellent,2,0,7.3,20200
+CAR_01812,Honda,2018,176200,1.2,106,Diesel,Automatic,SUV,Very Good,3,0,4.5,8000
+CAR_01813,Hyundai,2015,260000,1.2,95,Diesel,Automatic,Hatchback,Good,1,1,4.5,3000
+CAR_01814,Chevrolet,2020,95500,1.6,108,Hybrid,Automatic,Hatchback,Excellent,2,0,4.9,7800
+CAR_01815,Chevrolet,2015,134300,2.0,125,Petrol,Automatic,Crossover,Good,2,1,5.9,3600
+CAR_01816,Audi,2020,52000,2.5,207,Petrol,Manual,Hatchback,Good,4,0,7.7,30500
+CAR_01817,Hyundai,2017,98300,1.5,95,Petrol,Automatic,Sedan,Fair,3,0,5.2,4900
+CAR_01818,Honda,2022,56400,2.5,166,Hybrid,Automatic,Sedan,Excellent,1,0,7.1,24100
+CAR_01819,Toyota,2022,92000,1.4,100,Petrol,Automatic,Hatchback,Good,2,0,4.5,11800
+CAR_01820,Kia,2018,147300,1.6,96,Petrol,Automatic,Sedan,Good,2,0,5.1,5800
+CAR_01821,Chevrolet,2017,167700,1.5,105,Diesel,Manual,SUV,Excellent,2,0,4.6,4000
+CAR_01822,Chevrolet,2017,65300,1.6,126,Petrol,Manual,SUV,Very Good,3,0,4.8,4600
+CAR_01823,Toyota,2022,46500,1.6,111,Hybrid,Automatic,Sedan,Good,3,0,5.8,15600
+CAR_01824,Honda,2016,201200,2.0,131,Hybrid,Automatic,Crossover,Very Good,1,0,5.7,9100
+CAR_01825,Toyota,2015,193700,1.2,94,Petrol,Automatic,SUV,Excellent,1,0,4.5,6600
+CAR_01826,Toyota,2012,229400,1.5,103,Petrol,Automatic,SUV,Fair,2,1,5.7,3100
+CAR_01827,Chevrolet,2018,154800,1.5,104,Petrol,Manual,Crossover,Very Good,1,0,4.9,4000
+CAR_01828,Audi,2019,162700,3.0,262,Petrol,Automatic,SUV,Very Good,1,0,9.4,38300
+CAR_01829,Honda,2023,47200,2.0,126,Hybrid,Automatic,Sedan,Very Good,1,1,7.6,16300
+CAR_01830,Hyundai,2015,181600,1.2,96,Electric,Automatic,SUV,Good,3,1,0.0,3700
+CAR_01831,Audi,2017,159500,2.5,188,Petrol,Automatic,Hatchback,Very Good,1,0,8.3,25300
+CAR_01832,Toyota,2022,107800,1.6,132,Petrol,Automatic,Hatchback,Fair,2,0,5.3,11900
+CAR_01833,Toyota,2022,37600,1.6,102,Petrol,Manual,Hatchback,Very Good,1,1,4.5,11800
+CAR_01834,Honda,2017,170500,2.0,135,Petrol,Automatic,SUV,Fair,1,0,6.0,7500
+CAR_01835,BMW,2018,135200,2.5,230,Petrol,Manual,Sedan,Good,1,0,7.1,25400
+CAR_01836,Toyota,2016,201800,1.6,96,Petrol,Automatic,Hatchback,Good,1,0,5.2,5000
+CAR_01837,Chevrolet,2024,29700,1.4,93,Petrol,Automatic,Hatchback,Very Good,3,0,4.5,8500
+CAR_01838,Hyundai,2013,212200,1.4,107,Petrol,Automatic,Sedan,Good,3,1,4.5,3000
+CAR_01839,Mercedes,2024,74800,2.5,183,Diesel,Automatic,Sedan,Good,2,0,7.6,44400
+CAR_01840,Hyundai,2021,146300,2.0,139,Petrol,Manual,Crossover,Good,1,1,6.0,7500
+CAR_01841,Hyundai,2019,143700,1.6,114,Diesel,Automatic,Hatchback,Very Good,2,0,5.3,8100
+CAR_01842,Kia,2011,190100,1.4,75,Petrol,Automatic,Hatchback,Good,1,0,4.7,2500
+CAR_01843,Kia,2018,123800,1.6,92,Hybrid,Automatic,Hatchback,Very Good,1,0,4.8,6800
+CAR_01844,Toyota,2018,114400,1.5,85,Petrol,Automatic,SUV,Fair,2,2,5.0,4500
+CAR_01845,Mercedes,2014,137800,2.0,142,Hybrid,Manual,SUV,Good,2,0,6.3,15700
+CAR_01846,Hyundai,2021,86000,1.2,89,Hybrid,Automatic,SUV,Very Good,1,0,4.5,8800
+CAR_01847,Chevrolet,2025,34500,1.5,97,Petrol,Manual,Sedan,Excellent,1,0,4.5,8500
+CAR_01848,Chevrolet,2020,77600,1.4,83,Petrol,Automatic,SUV,Fair,3,0,4.5,3500
+CAR_01849,Mercedes,2021,109900,3.0,260,Hybrid,Automatic,SUV,Fair,1,0,9.5,45900
+CAR_01850,Toyota,2012,257300,2.0,149,Diesel,Automatic,SUV,Good,3,0,6.3,4800
+CAR_01851,Hyundai,2018,124100,1.5,118,Hybrid,Manual,SUV,Very Good,4,1,4.5,6800
+CAR_01852,BMW,2013,232100,2.5,211,Diesel,Manual,SUV,Good,2,0,6.7,11000
+CAR_01853,BMW,2020,141300,3.0,216,Petrol,Automatic,Sedan,Very Good,1,0,9.5,32500
+CAR_01854,BMW,2024,64700,3.5,258,Petrol,Automatic,Sedan,Fair,2,0,10.4,43900
+CAR_01855,Mercedes,2021,88900,2.0,156,Petrol,Automatic,Sedan,Good,1,0,6.3,31800
+CAR_01856,Hyundai,2012,218400,1.5,98,Electric,Automatic,Sedan,Good,1,0,0.0,3400
+CAR_01857,Honda,2017,152800,1.4,112,Petrol,Automatic,Crossover,Very Good,2,1,5.2,7000
+CAR_01858,Kia,2019,100000,1.6,114,Petrol,Automatic,Sedan,Very Good,1,0,5.2,7700
+CAR_01859,BMW,2018,60700,2.5,210,Diesel,Automatic,Sedan,Good,1,1,8.1,23900
+CAR_01860,Honda,2023,75300,1.5,106,Diesel,Automatic,SUV,Excellent,2,1,4.5,14000
+CAR_01861,Honda,2022,73600,2.0,144,Petrol,Automatic,SUV,Good,2,0,7.3,13000
+CAR_01862,Toyota,2020,110300,1.4,107,Petrol,Manual,Sedan,Very Good,1,0,4.6,9700
+CAR_01863,Chevrolet,2017,147900,1.5,105,Petrol,Automatic,Hatchback,Very Good,1,0,4.5,4900
+CAR_01864,Toyota,2015,183100,1.6,122,Petrol,Manual,Hatchback,Good,1,0,4.5,5700
+CAR_01865,Audi,2013,202600,3.0,238,Diesel,Automatic,Sedan,Very Good,1,0,9.4,16500
+CAR_01866,Mercedes,2017,92400,3.0,257,Petrol,Automatic,Sedan,Very Good,2,0,8.5,35300
+CAR_01867,Chevrolet,2018,202300,1.4,110,Hybrid,Automatic,Crossover,Good,2,0,4.7,4200
+CAR_01868,Chevrolet,2021,55800,1.2,96,Diesel,Automatic,Hatchback,Very Good,2,1,4.5,6700
+CAR_01869,Chevrolet,2021,74300,1.6,101,Petrol,Automatic,SUV,Good,1,0,5.2,6800
+CAR_01870,Honda,2012,207800,1.5,102,Petrol,Automatic,Sedan,Very Good,1,0,5.3,4500
+CAR_01871,BMW,2017,204700,2.0,146,Petrol,Manual,Sedan,Good,1,0,5.3,12900
+CAR_01872,Chevrolet,2014,194300,1.6,97,Petrol,Automatic,SUV,Very Good,1,0,4.5,3200
+CAR_01873,Kia,2014,141100,1.6,108,Petrol,Manual,Sedan,Good,1,0,5.0,3600
+CAR_01874,BMW,2022,87000,4.0,318,Hybrid,Automatic,Sedan,Fair,1,1,12.5,51300
+CAR_01875,Honda,2011,286400,1.6,114,Petrol,Automatic,SUV,Good,1,1,6.5,3100
+CAR_01876,Toyota,2018,145300,1.5,91,Hybrid,Automatic,Sedan,Good,2,0,4.5,7800
+CAR_01877,Toyota,2014,227800,1.5,103,Petrol,Automatic,Hatchback,Good,2,0,5.4,5200
+CAR_01878,Kia,2023,80400,1.2,96,Petrol,Automatic,Hatchback,Good,2,0,4.5,9100
+CAR_01879,Hyundai,2019,174400,2.0,137,Electric,Manual,Sedan,Very Good,1,0,0.0,7400
+CAR_01880,Toyota,2015,188400,1.5,110,Petrol,Automatic,Hatchback,Good,3,1,5.2,5600
+CAR_01881,Toyota,2019,161200,1.2,87,Petrol,Automatic,Sedan,Very Good,4,1,4.5,6900
+CAR_01882,BMW,2021,89100,2.0,162,Petrol,Automatic,Hatchback,Very Good,1,0,6.8,33100
+CAR_01883,Toyota,2024,38200,1.2,76,Petrol,Automatic,Sedan,Excellent,2,0,4.5,16900
+CAR_01884,Honda,2015,110400,1.4,96,Diesel,Automatic,Sedan,Excellent,3,0,4.9,6600
+CAR_01885,Chevrolet,2023,46600,1.2,93,Petrol,Automatic,SUV,Excellent,2,0,4.5,8500
+CAR_01886,Kia,2024,45300,2.0,125,Petrol,Automatic,SUV,Very Good,1,0,7.3,16900
+CAR_01887,Chevrolet,2023,90500,1.5,99,Petrol,Automatic,Crossover,Good,2,0,5.9,7100
+CAR_01888,Hyundai,2020,124500,1.2,87,Hybrid,Automatic,Sedan,Very Good,2,0,4.5,7200
+CAR_01889,Honda,2020,52200,1.5,121,Petrol,Automatic,Sedan,Excellent,1,0,5.5,13100
+CAR_01890,Audi,2018,127500,3.0,250,Petrol,Automatic,SUV,Fair,3,0,9.4,25600
+CAR_01891,Chevrolet,2022,92200,1.5,107,Petrol,Automatic,SUV,Very Good,2,0,4.5,6900
+CAR_01892,Kia,2019,112100,1.5,101,Petrol,Automatic,Sedan,Good,1,0,4.7,6800
+CAR_01893,BMW,2021,97700,3.0,271,Petrol,Manual,SUV,Very Good,2,0,9.6,42700
+CAR_01894,Chevrolet,2018,141600,2.0,135,Petrol,Manual,Hatchback,Good,2,0,5.8,4800
+CAR_01895,Toyota,2021,97400,2.0,145,Petrol,Automatic,Hatchback,Very Good,1,1,6.9,13200
+CAR_01896,Honda,2022,65000,1.5,135,Petrol,Manual,Crossover,Very Good,1,0,4.5,14000
+CAR_01897,Toyota,2013,146700,2.0,124,Petrol,Automatic,Sedan,Excellent,3,1,6.1,5500
+CAR_01898,Chevrolet,2023,46200,1.5,103,Hybrid,Automatic,SUV,Very Good,2,0,5.0,9400
+CAR_01899,Hyundai,2019,140200,1.4,127,Diesel,Automatic,Sedan,Very Good,1,0,4.6,9200
+CAR_01900,Honda,2023,67800,1.5,106,Petrol,Manual,SUV,Good,1,0,4.5,9900
+CAR_01901,Toyota,2018,124800,1.2,82,Petrol,Automatic,SUV,Good,2,0,4.5,6900
+CAR_01902,Chevrolet,2017,144100,1.6,121,Petrol,Manual,Crossover,Good,2,0,4.8,3700
+CAR_01903,Honda,2023,55500,1.5,101,Hybrid,Manual,SUV,Good,1,0,4.5,13000
+CAR_01904,Chevrolet,2015,223300,1.5,102,Petrol,Automatic,Crossover,Good,2,0,5.0,2800
+CAR_01905,Honda,2023,55800,1.4,81,Diesel,Automatic,Hatchback,Very Good,1,0,4.8,11800
+CAR_01906,Chevrolet,2019,80300,1.5,83,Petrol,Automatic,Crossover,Very Good,1,0,5.2,4700
+CAR_01907,Audi,2019,161800,3.0,252,Petrol,Automatic,Hatchback,Very Good,2,0,9.8,38800
+CAR_01908,Hyundai,2016,153300,1.5,99,Hybrid,Automatic,SUV,Good,1,1,4.5,4700
+CAR_01909,Hyundai,2020,107000,1.6,116,Diesel,Automatic,Sedan,Good,3,1,5.6,6700
+CAR_01910,Chevrolet,2016,229100,2.0,138,Hybrid,Automatic,Sedan,Very Good,1,0,6.8,4800
+CAR_01911,Hyundai,2011,270200,1.6,111,Petrol,Automatic,Sedan,Good,2,0,5.8,2600
+CAR_01912,BMW,2016,175600,3.5,245,Petrol,Automatic,SUV,Good,1,0,9.9,23200
+CAR_01913,Audi,2010,213300,4.0,314,Petrol,Automatic,SUV,Fair,1,1,12.1,12000
+CAR_01914,Hyundai,2025,38300,1.6,102,Petrol,Automatic,SUV,Fair,2,0,6.1,10000
+CAR_01915,Kia,2024,40000,1.5,95,Petrol,Automatic,Crossover,Good,2,1,5.0,9700
+CAR_01916,Honda,2017,104300,1.6,93,Petrol,Automatic,Crossover,Fair,2,0,5.5,5700
+CAR_01917,Mercedes,2021,138300,4.4,324,Petrol,Manual,Sedan,Good,2,2,12.7,38100
+CAR_01918,Toyota,2017,150500,1.4,98,Petrol,Automatic,Sedan,Very Good,2,0,4.5,7300
+CAR_01919,Kia,2021,86600,1.2,103,Diesel,Automatic,Sedan,Fair,2,0,5.1,6100
+CAR_01920,Kia,2022,87900,1.4,121,Hybrid,Manual,Sedan,Good,2,0,4.5,10000
+CAR_01921,Toyota,2024,38200,1.6,102,Petrol,Automatic,Hatchback,Excellent,2,2,5.5,12500
+CAR_01922,Chevrolet,2018,175500,1.5,113,Petrol,Manual,SUV,Very Good,2,2,4.5,3300
+CAR_01923,Toyota,2022,50600,2.5,178,Petrol,Automatic,SUV,Good,4,0,8.2,17500
+CAR_01924,Hyundai,2016,168700,1.5,98,Hybrid,Manual,Hatchback,Excellent,1,0,4.5,5100
+CAR_01925,Honda,2025,22200,1.6,118,Petrol,Manual,Hatchback,Good,2,0,5.3,15000
+CAR_01926,Chevrolet,2010,189400,2.0,146,Diesel,Automatic,Sedan,Fair,1,0,6.2,2600
+CAR_01927,Toyota,2020,139600,2.0,120,Diesel,Automatic,SUV,Excellent,1,1,5.9,10600
+CAR_01928,Kia,2021,138700,1.5,109,Petrol,Manual,Sedan,Excellent,1,0,4.5,8900
+CAR_01929,Toyota,2021,80600,1.6,100,Petrol,Manual,Sedan,Good,3,0,4.5,10000
+CAR_01930,Chevrolet,2013,244800,1.2,91,Electric,Manual,Sedan,Very Good,2,0,0.0,2500
+CAR_01931,Toyota,2024,43300,1.6,110,Petrol,Automatic,SUV,Very Good,2,0,5.9,18900
+CAR_01932,Toyota,2014,189000,1.6,94,Diesel,Manual,Sedan,Good,1,1,5.1,4000
+CAR_01933,Toyota,2020,52300,1.6,103,Electric,Automatic,Sedan,Good,2,0,0.0,12900
+CAR_01934,Toyota,2015,147800,1.6,102,Petrol,Automatic,SUV,Good,3,0,5.1,5400
+CAR_01935,Toyota,2016,130600,1.6,121,Hybrid,Automatic,Hatchback,Excellent,1,0,4.5,11200
+CAR_01936,BMW,2019,186600,3.5,280,Hybrid,Automatic,Sedan,Fair,1,0,10.9,33500
+CAR_01937,Hyundai,2018,137100,1.6,101,Diesel,Automatic,Sedan,Very Good,1,0,6.1,5900
+CAR_01938,BMW,2014,189900,3.0,255,Petrol,Automatic,Hatchback,Fair,2,1,8.9,14200
+CAR_01939,Kia,2014,235600,1.5,102,Petrol,Automatic,Sedan,Good,2,0,4.9,3300
+CAR_01940,Chevrolet,2018,99300,2.0,137,Petrol,Automatic,Crossover,Very Good,2,1,6.6,6000
+CAR_01941,Chevrolet,2022,54400,1.5,103,Hybrid,Manual,SUV,Very Good,2,0,5.1,7400
+CAR_01942,Hyundai,2023,50800,1.5,126,Hybrid,Automatic,Sedan,Fair,1,1,5.1,10100
+CAR_01943,Honda,2012,298200,1.6,112,Petrol,Automatic,Sedan,Good,2,0,5.4,3000
+CAR_01944,Honda,2017,163500,2.0,142,Petrol,Automatic,Sedan,Very Good,1,0,6.5,9200
+CAR_01945,Honda,2013,227200,1.5,115,Petrol,Automatic,Sedan,Fair,1,0,4.5,3700
+CAR_01946,Kia,2010,288900,1.5,104,Diesel,Automatic,Sedan,Good,2,1,4.5,2500
+CAR_01947,Kia,2021,90100,1.6,124,Diesel,Automatic,SUV,Very Good,3,0,4.9,9800
+CAR_01948,Chevrolet,2020,139000,1.6,119,Hybrid,Automatic,Sedan,Very Good,2,0,5.8,7200
+CAR_01949,Hyundai,2014,194200,1.4,78,Diesel,Manual,SUV,Good,2,1,4.5,2500
+CAR_01950,Kia,2015,186100,1.5,97,Hybrid,Automatic,SUV,Very Good,1,0,4.7,4500
+CAR_01951,Chevrolet,2010,189100,2.0,134,Diesel,Automatic,Sedan,Excellent,1,0,6.1,2800
+CAR_01952,Hyundai,2023,52800,2.0,135,Petrol,Automatic,Sedan,Fair,1,0,6.3,10100
+CAR_01953,Toyota,2025,19600,1.5,98,Petrol,Automatic,Sedan,Very Good,3,0,5.9,17900
+CAR_01954,Honda,2013,343700,1.6,115,Hybrid,Automatic,Sedan,Fair,3,0,5.2,3300
+CAR_01955,Audi,2015,177500,2.0,169,Petrol,Automatic,SUV,Fair,4,0,6.0,13900
+CAR_01956,Mercedes,2023,67000,2.0,173,Petrol,Automatic,Sedan,Good,1,0,6.4,42000
+CAR_01957,Toyota,2024,32600,1.2,83,Petrol,Automatic,Hatchback,Good,2,0,5.0,12100
+CAR_01958,Kia,2018,157800,1.6,108,Petrol,Automatic,Sedan,Very Good,2,0,5.0,7200
+CAR_01959,Toyota,2011,340400,1.2,76,Petrol,Automatic,SUV,Good,2,0,4.5,2500
+CAR_01960,Honda,2011,213700,2.0,138,Petrol,Manual,SUV,Very Good,2,0,5.3,4500
+CAR_01961,Chevrolet,2020,82800,2.0,140,Petrol,Automatic,SUV,Good,2,0,6.5,7100
+CAR_01962,Kia,2017,176800,1.2,75,Petrol,Automatic,Sedan,Good,1,1,4.5,3600
+CAR_01963,BMW,2010,169700,4.0,309,Petrol,Automatic,Sedan,Good,1,1,12.5,14800
+CAR_01964,Kia,2020,96100,1.5,105,Diesel,Manual,SUV,Very Good,1,1,4.5,6800
+CAR_01965,Toyota,2010,252000,1.2,103,Petrol,Manual,Sedan,Very Good,1,0,4.5,3100
+CAR_01966,Toyota,2022,74500,1.5,94,Petrol,Automatic,Sedan,Very Good,1,1,4.8,11800
+CAR_01967,Chevrolet,2016,191400,1.5,101,Petrol,Manual,SUV,Good,1,1,4.5,2500
+CAR_01968,Hyundai,2011,201900,1.4,94,Petrol,Automatic,SUV,Very Good,1,0,4.5,2500
+CAR_01969,Hyundai,2020,120600,2.0,137,Petrol,Manual,SUV,Good,2,0,5.3,7300
+CAR_01970,Chevrolet,2017,169200,1.5,94,Diesel,Automatic,SUV,Very Good,3,0,4.7,4100
+CAR_01971,Chevrolet,2025,22700,1.4,92,Diesel,Automatic,SUV,Excellent,3,0,5.2,10300
+CAR_01972,BMW,2019,133500,2.5,241,Petrol,Automatic,SUV,Fair,1,1,8.1,24100
+CAR_01973,Hyundai,2016,183500,1.6,91,Petrol,Automatic,SUV,Good,1,0,5.7,3700
+CAR_01974,Kia,2021,102400,1.6,110,Petrol,Automatic,SUV,Very Good,1,0,5.9,9600
+CAR_01975,Hyundai,2016,177400,1.6,110,Electric,Automatic,Hatchback,Very Good,4,0,0.0,5500
+CAR_01976,Mercedes,2023,59000,2.0,167,Hybrid,Automatic,Sedan,Good,2,0,5.8,42000
+CAR_01977,Hyundai,2017,94700,1.4,109,Petrol,Automatic,Sedan,Excellent,1,0,4.5,7300
+CAR_01978,Kia,2019,113600,2.0,136,Diesel,Automatic,Hatchback,Very Good,3,1,5.5,8700
+CAR_01979,BMW,2011,274600,2.0,199,Diesel,Manual,SUV,Good,1,0,5.4,9400
+CAR_01980,BMW,2018,166500,2.0,148,Diesel,Manual,Sedan,Fair,3,1,5.4,12600
+CAR_01981,Chevrolet,2023,51100,1.6,115,Diesel,Manual,Hatchback,Very Good,1,0,4.9,7000
+CAR_01982,BMW,2022,63500,2.0,177,Hybrid,Automatic,Sedan,Fair,1,0,6.4,33800
+CAR_01983,Kia,2015,174800,1.4,104,Petrol,Automatic,SUV,Good,2,0,4.5,4300
+CAR_01984,Kia,2015,199800,2.0,144,Petrol,Automatic,Hatchback,Very Good,3,1,6.3,4700
+CAR_01985,Chevrolet,2022,88700,1.2,100,Hybrid,Automatic,Crossover,Very Good,3,0,4.5,7800
+CAR_01986,Chevrolet,2024,44200,1.2,106,Petrol,Automatic,Sedan,Very Good,2,0,4.7,9100
+CAR_01987,Honda,2012,282600,1.6,98,Diesel,Automatic,SUV,Good,1,0,4.9,3300
+CAR_01988,Kia,2018,135900,1.5,109,Petrol,Manual,Sedan,Very Good,1,1,4.5,5500
+CAR_01989,Kia,2017,141000,1.6,122,Petrol,Automatic,Sedan,Excellent,4,0,5.7,7600
+CAR_01990,Honda,2023,67300,1.5,103,Petrol,Manual,Sedan,Good,2,0,4.5,11700
+CAR_01991,Honda,2012,272200,1.5,95,Petrol,Automatic,SUV,Very Good,2,0,4.5,2800
+CAR_01992,Chevrolet,2015,211400,2.0,125,Petrol,Automatic,SUV,Excellent,1,0,6.8,4200
+CAR_01993,Toyota,2022,109200,1.6,127,Electric,Automatic,Sedan,Very Good,2,1,0.0,13000
+CAR_01994,Chevrolet,2011,200100,2.5,158,Petrol,Automatic,SUV,Very Good,1,1,7.6,2700
+CAR_01995,Honda,2019,142800,1.6,114,Diesel,Manual,SUV,Good,2,0,4.6,7800
+CAR_01996,Toyota,2018,121800,2.0,128,Petrol,Automatic,Hatchback,Very Good,3,1,6.7,8500
+CAR_01997,Audi,2017,117800,4.4,347,Hybrid,Automatic,Crossover,Very Good,2,0,13.3,41800
+CAR_01998,Chevrolet,2017,150800,1.6,96,Petrol,Automatic,Sedan,Very Good,2,0,5.3,4800
+CAR_01999,Chevrolet,2019,132100,1.4,84,Diesel,Automatic,Crossover,Excellent,1,1,4.5,3900
+CAR_02000,Hyundai,2014,336800,1.5,111,Petrol,Automatic,Hatchback,Fair,1,0,5.2,2800
