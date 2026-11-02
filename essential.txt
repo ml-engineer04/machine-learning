@@ -1,0 +1,15 @@
+Precision -> Aniqlik, model topgan natijalarning haqiqatdan qanchasi to'g'ri?
+Recall -> (qamrov) - model topishi kerak bo'lgan natijalarning qanchasini topdi.
+
+Precision = topganlarimdan qanchasi to'g'ri -> TP/(TP+FP)
+Recall = topishim kerak bo'lganlaridan qanchasini topdim -> TP/(TP+FN)
+
+Misol: 100 ta kasal odamdan model 80 tasini aniqladi demak recall 80%. Model 100 kishini kasal 
+deb belgiladi ulardan 80 tasi haqiqatdan kasal bu precition
+
+==================================================================================
+XGBoost homework: 
+1. 184 betdagi mavzu
+2. 94-95 bet (Precision, Recall and Tradeoff) 
+3. 136-142 betlar
+4. 
