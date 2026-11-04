@@ -1,3 +1,4 @@
+==================================================================================
 Precision -> Aniqlik, model topgan natijalarning haqiqatdan qanchasi to'g'ri?
 Recall -> (qamrov) - model topishi kerak bo'lgan natijalarning qanchasini topdi.
 
@@ -12,4 +13,13 @@ XGBoost homework:
 1. 184 betdagi mavzu
 2. 94-95 bet (Precision, Recall and Tradeoff) 
 3. 136-142 betlar
-4. 
+
+==================================================================================
+XGBoost - Extreme Gradient Boosting -> uning boshqa boosting algortimlaridan farqi optimizatsiya va 
+regulizatsiya ishini oz ichiga olishdir.
+
+Optimization -> XGBoost da bu 2 tomonlama boladi. Train jarayonidan oldin gradient va hessien 
+tamoillari asosida ketma ket malumotimizdagi xatoligi mavjud bolgan yolni aniqlaydi.
+
+Regularization -> bu jarayon gradient boostingda training jarayonida boladi Lasso Rich formulalari
+asosida weightni tartibga solish bilan overfitting va underfittingni balansda ushlab turadi.
