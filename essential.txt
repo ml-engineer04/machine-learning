@@ -23,3 +23,10 @@ tamoillari asosida ketma ket malumotimizdagi xatoligi mavjud bolgan yolni aniqla
 
 Regularization -> bu jarayon gradient boostingda training jarayonida boladi Lasso Rich formulalari
 asosida weightni tartibga solish bilan overfitting va underfittingni balansda ushlab turadi.
+
+==================================================================================
+XGBoost ni huddi LightGBM dek ishlaydigan qilsak bo'ladi.
+buning uchun XGBoost hyperparametr lariga  2 tagina parametrni qo'shish kifoya
+bular -> 
+1. tree_method = "hist"
+2. grow_policy = "lossgiude"
