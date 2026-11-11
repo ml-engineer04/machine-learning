@@ -30,3 +30,5 @@ buning uchun XGBoost hyperparametr lariga  2 tagina parametrni qo'shish kifoya
 bular -> 
 1. tree_method = "hist"
 2. grow_policy = "lossgiude"
+
+==================================================================================
