@@ -1,0 +1,11 @@
+1. Machine Learning - algoritmga qarab malumotlardan turlicha qonuniyatlarni o'rganadi
+   - Linear Regression
+	 - Decision Tree -> shartlar asosiyda qaror qabul qiladi
+	 - KNN -> o'xshash obyektlarni topadi
+
+2. Neural Network - bu esa inson miyyasi ishlashidan ilhomlangan matematik arxitekturadir u bir nechta qatlamlardan tashkil topadi
+   - input layer -> malumotlarni qabul qiladi
+	 - hidden layers -> malumotlarni qayta ishlaydi
+	 - output layer -> natijani chiqaradi
+
+
